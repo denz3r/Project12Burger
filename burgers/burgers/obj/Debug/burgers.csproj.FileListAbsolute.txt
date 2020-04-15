@@ -1,0 +1,9 @@
+C:\Users\Denz\source\repos\burgers\burgers\obj\Debug\burgers.csprojAssemblyReference.cache
+C:\Users\Denz\source\repos\burgers\burgers\obj\Debug\burgers.BurgerMenu.resources
+C:\Users\Denz\source\repos\burgers\burgers\obj\Debug\burgers.Properties.Resources.resources
+C:\Users\Denz\source\repos\burgers\burgers\obj\Debug\burgers.csproj.GenerateResource.cache
+C:\Users\Denz\source\repos\burgers\burgers\bin\Debug\burgers.exe.config
+C:\Users\Denz\source\repos\burgers\burgers\bin\Debug\burgers.exe
+C:\Users\Denz\source\repos\burgers\burgers\bin\Debug\burgers.pdb
+C:\Users\Denz\source\repos\burgers\burgers\obj\Debug\burgers.exe
+C:\Users\Denz\source\repos\burgers\burgers\obj\Debug\burgers.pdb
